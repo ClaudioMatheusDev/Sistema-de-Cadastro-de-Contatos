@@ -27,7 +27,7 @@ Um projeto simples em .NET para gerenciar um cadastro de contatos. O sistema per
 1. **Clone o Repositório**
 
     ```bash
-    git clone https://github.com/seu-usuario/cadastro-de-contatos.git
+    git clone https://github.com/ClaudioMatheusDev/Sistema-de-Cadastro-de-Contatos
     ```
 
 2. **Navegue até o Diretório do Projeto**
