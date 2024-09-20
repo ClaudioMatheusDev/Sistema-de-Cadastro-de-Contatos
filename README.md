@@ -4,7 +4,7 @@ Um projeto simples em .NET para gerenciar um cadastro de contatos. O sistema per
 
 ## Tecnologias Utilizadas
  
-- .NET 7.0
+- .NET 8.0
 - C#
 - Entity Framework Core
 - SQL Server
