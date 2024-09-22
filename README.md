@@ -22,7 +22,7 @@ Um projeto simples em .NET para gerenciar um cadastro de contatos. O sistema per
 - [.NET SDK 7.0](https://dotnet.microsoft.com/download/dotnet/7.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) ou [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
 
-## Instalação
+## Instalaçãoo
 
 1. **Clone o Repositório**
 
