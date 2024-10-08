@@ -13,7 +13,7 @@ Um projeto simples em . NET para gerenciar um cadastro de contatos. O sistema pe
 
 ## Funcionalidades
 
-- **Adicionar Contato**: Permite adicionar novos contatos com informações como nome, e-mail e número de telefone.
+- **Adicionar Contato**: Permite adicionar novos contatos com informações como nome, e-mail e  número de telefone.
 - **Listar Contatos**: Exibe uma lista de todos os contatos cadastrados.
 - **Atualizar Contato**: Permite atualizar as informações de um contato existente.
 - **Excluir Contato**: Remove um contato da base de dados.
