@@ -2,7 +2,7 @@
 
 Um projeto simples em . NET para gerenciar um cadastro de contatos. O sistema permite adicionar, listar, atualizar e excluir contatos, e utiliza uma base de dados SQL para armazenar as informações.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 
 
   
 - .NET 8.0.
