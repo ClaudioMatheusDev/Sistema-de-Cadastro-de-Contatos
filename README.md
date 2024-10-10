@@ -7,7 +7,7 @@ Um projeto simples em . NET para gerenciar um cadastro de contatos. O sistema pe
   
 - .NET 8.0.
 - C#
-- Entity Framework Core
+- Entity Framew ork Core
 - SQL Server
 - ASP.NET Core
 
